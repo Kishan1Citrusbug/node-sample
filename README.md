@@ -1,4 +1,4 @@
-# node-sample## Node Sample
+# Node Sample
 
 This repository serves as a basic example of integrating Apollo Client with Express and Nest frameworks in a Node.js application.
 
